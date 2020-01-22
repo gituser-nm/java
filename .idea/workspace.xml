@@ -23,14 +23,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.java.sandbox" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.java.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -38,7 +44,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFirstProgram" />
+        <item itemvalue="Application.MyFirstProgram1" />
       </list>
     </recent_temporary>
   </component>
@@ -72,18 +78,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="238" y="47" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578997814322" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579685984674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579685984674" />
+    <state x="479" y="224" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579686532478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1579686532478" />
     <state x="463" y="74" key="FileChooserDialogImpl" timestamp="1578998125209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="74" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578998125209" />
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1579295175086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579295175086" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1579295175086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579295175086" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1579295175086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579295175086" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1579295175086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579295175086" />
     <state x="163" y="105" width="1040" height="500" key="SettingsEditor" timestamp="1578998237538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="105" width="1040" height="500" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578998237538" />
-    <state x="387" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1578998445773">
+    <state x="498" y="147" key="chooseDestDirectoryDialog" timestamp="1579686532278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="387" y="267" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578998445773" />
+    <state x="498" y="147" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1579686532278" />
+    <state x="387" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1579683292790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="267" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579683292790" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578997933835">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
